@@ -1,0 +1,5 @@
+.vs/
+bin/
+EpubParser/obj/
+obj/azure.csproj.nuget.dgspec.json
+obj/
